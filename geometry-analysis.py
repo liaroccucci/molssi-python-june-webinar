@@ -1,5 +1,5 @@
 """
-This module analyzes the geometry of a molecule. 
+This module analyzes the geometry of molecules. 
 """
 import numpy
 import os
